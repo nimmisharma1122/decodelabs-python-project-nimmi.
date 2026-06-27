@@ -1,7 +1,7 @@
 # Expense Tracker Project
 
 ## 👩‍💻 Developed By
-**Simmi**
+**Nimmi**
 
 ## 📌 Project Overview
 The Expense Tracker is a Python-based application that helps users manage and track their daily expenses efficiently. This project allows users to add, view, and analyze their expenses, making personal finance management simple and organized.
